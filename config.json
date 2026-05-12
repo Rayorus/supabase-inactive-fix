@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CodeConnect",
+    "supabase_url": "https://keacjlmckckzqtbxlxjl.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_CODECONNECT",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Memora",
+    "supabase_url": "https://ulmbuijvucdpzusuapip.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_MEMORA",
+    "table_name": "keep-alive"
+  }
+]
